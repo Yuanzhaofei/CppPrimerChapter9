@@ -36,6 +36,7 @@ int main() {
 	vector<string> svec;
 	svec.assign(clist.begin(), clist.end());
 
+	cout << v1.max_size();
 	system("pause");
 	return 0;
 
